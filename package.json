@@ -1,0 +1,22 @@
+{
+  "name": "kd-fitness",
+  "version": "1.0.0",
+  "description": "kd fitness housekeeping services, krishna website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishad8898/house-keeping.git"
+  },
+  "author": "sachin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishad8898/house-keeping/issues"
+  },
+  "homepage": "https://nishad8898.github.io/house-keeping",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
